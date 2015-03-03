@@ -1,5 +1,5 @@
-Helpers to work with Inifinity Engine/Aurora
-============================================
+Deprecated library to work with Inifinity Engine/Aurora
+=======================================================
 
 Author: metamaker
 
